@@ -5,6 +5,7 @@ I have integrated JasperReports to print an invoice for the bill for the added p
 
 Technologies used : HTML5 , CSS , Javascript , bootstrap , Java , Spring MVC , Spring Boot , PostgresQL, Hibernate .
 
+Note : Recommended only for Large Devices 
 # Example Of Use:
 
 ![image](https://user-images.githubusercontent.com/113827619/208239721-8d07bae6-5ef3-4cfe-97b6-b9e34b457c56.png)
